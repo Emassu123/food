@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d2cf59b-4d5a-469f-9f40-7e05856bb383" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/fake-data/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Helmet/Helmet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/cart/CartItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/cart/Carts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/category/Category.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/common-section/CommonSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/product-card/ProductCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/slider/TestimonialSlider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AllFoods.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Checkout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/FoodDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/Routers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/shopping-cart/cartSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/shopping-cart/cartUiSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/all-foods.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/cart-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/cart-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/category.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/checkout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/common-section.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/hero-section.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/product-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/product-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/shopping-cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/index.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/index.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2uZuSk59LTAnXvR1YoaO8t2MCTI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thoma\OneDrive\Desktop\food\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2cf59b-4d5a-469f-9f40-7e05856bb383" name="Changes" comment="" />
+      <created>1742468423387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742468423387</updated>
+      <workItem from="1742468429235" duration="16869000" />
+      <workItem from="1742498713531" duration="5915000" />
+      <workItem from="1742537503476" duration="2459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
